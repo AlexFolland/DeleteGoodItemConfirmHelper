@@ -1,4 +1,9 @@
 ## Interface: 90005
+## Interface-Retail: 90005
+## Interface-Classic: 11307
+## Interface-BCC: 20501
 ## Title: DeleteGoodItemConfirmHelper
 ## Notes: Replaces the inconvenient good item delete confirm popup with the convenient one
 DeleteGoodItemConfirmHelper.lua
+
+## X-Curse-Project-ID: 95016

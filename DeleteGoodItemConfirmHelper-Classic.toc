@@ -1,4 +1,4 @@
-## Interface: 90005
+## Interface: 11307
 ## Title: DeleteGoodItemConfirmHelper
 ## Notes: Replaces the inconvenient good item delete confirm popup with the convenient one
 DeleteGoodItemConfirmHelper.lua
